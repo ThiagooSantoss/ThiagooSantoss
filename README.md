@@ -1,4 +1,4 @@
-## Hi there, I'm Thiago Santos 👋
+## Olá, eu sou Thiago Santos 👋
 
 - 🔭 Atualmente estudando Python/Django
 - 🌱 A procura de oportunidades na área de desenvolvimento de sistemas
