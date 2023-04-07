@@ -1,11 +1,11 @@
 ## Hi there, I'm Thiago Santos 👋
 
-- 🔭 I’m currently working on Python/Django
-- 🌱 I’m currently learning React with Redux
-- 💬 Ask me about ...
-- 📫 How to reach me: thiagosantosmunhoz@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Action figure collector
+- 🔭 Atualmente estudando Python/Django
+- 🌱 A procura de oportunidades na área de desenvolvimento de sistemas
+- 💬 Fale comigo...
+- 📫 Como entrar em contato: thiagosantosmunhoz@gmail.com
+- 😄 Pronome: ele/dele
+- ⚡ Fato curioso: 
 
 <div align="center">
   <a href="https://github.com/ThiagooSantoss">
@@ -31,8 +31,8 @@
   <a href="https://www.youtube.com/channel/UCuQ6ClyP9dDxeko7Ugbs-6g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/crdepa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:crdepa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristiano-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:triagosantosmunhoz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-santos-ab4915122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ThiagooSantoss/ThiagooSantoss/blob/output/github-contribution-grid-snake.svg)
  
