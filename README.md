@@ -22,7 +22,6 @@
   <img align="center" alt="ThiagooSantoss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ThiagooSantoss-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
-  <img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.targethost.com.br%2Fdicas-para-comecar-no-mundo-da-programacao%2F&psig=AOvVaw37prWXKt556rTn0C4OcSa6&ust=1680964252904000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJjajpD-l_4CFQAAAAAdAAAAABAE" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C5103AQFOWLg62iaouA/profile-displayphoto-shrink_200_200/0/1517052182044?e=1682553600&v=beta&t=-XQVVTjgJ0otwBP9AdBMI9sVaS0NxxM8iH5xqOSgu9Y">
 </div>
   
   ##
