@@ -1,6 +1,6 @@
 ## Olá, eu sou Thiago Santos 👋
 
-- 🔭 Atualmente estudando Python/Django
+- 🔭 Atualmente estudando HTML, CSS e JAVASCRIPT 
 - 🌱 A procura de oportunidades na área de desenvolvimento de sistemas
 - 💬 Fale comigo...
 - 📫 Como entrar em contato: thiagosantosmunhoz@gmail.com
