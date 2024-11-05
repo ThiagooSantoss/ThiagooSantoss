@@ -33,7 +33,9 @@
   <a href="https://discord.com/channels/821364094878613524/935906121858818059" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:triagosantosmunhoz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-santos-ab4915122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ThiagooSantoss/ThiagooSantoss/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThiagooSantoss/ThiagooSantoss/output/snake.svg" alt="Snake animation" />
