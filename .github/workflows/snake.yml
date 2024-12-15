@@ -28,11 +28,13 @@ jobs:
           github_user_name: ThiagooSantoss
           outputs: dist/snake.svg
 
-      # Faz o commit do arquivo snake.svg gerado
-      - name: Commit animation
-        uses: EndBug/add-and-commit@v9
+      # Cria um Pull Request com as alterações
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
         with:
-          author_name: "github-actions[bot]"
-          author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "Atualiza animação da cobrinha"
-          add: "dist/snake.svg"
+          commit-message: "Atualiza animação da cobrinha"
+          title: "Atualiza animação da cobrinha"
+          body: "Este PR atualiza a animação da cobrinha gerada automaticamente."
+          branch: "update-snake-animation"
+          delete-branch: true
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
